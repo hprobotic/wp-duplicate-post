@@ -1,4 +1,5 @@
 === Duplicate Post ===
+
 Contributors: lopo
 Donate link: http://lopo.it/duplicate-post-plugin/
 Tags: duplicate post, copy, clone
