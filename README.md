@@ -90,7 +90,7 @@ There is an open ticket in WordPress Trac, as other plugin developers too are in
 5. The admin bar link. 
 
 == Upgrade Notice ==
-
+```
 = 2.6 =
 PHP 5.4 (Strict Standards) compatible + Fixed possible XSS and SQL injections + other bugs 
 
@@ -222,6 +222,8 @@ New features and customization, WP 3.0 compatibility: you should upgrade if you 
 
 = 0.4 =
 * Support for new WP post revision feature
+
+```
 
 
 
